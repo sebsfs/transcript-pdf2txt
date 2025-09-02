@@ -22,8 +22,12 @@ python main.py -i "path/to/pdf/file" [-o "output/path/to/txt/file"]
 
 ## Example
 📄 Example with an invoice will be shown here (screenshots of results).
-<p align="center">
-  <img src="https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/invoice_sample-1.jpg?raw=true" alt="Invoice sample" width="400"/>
-  <img src="https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/output_transcript.png?raw=true" alt="Output transcript" width="400"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/invoice_sample-1.jpg?raw=true" alt="Invoice Sample" width="400"/></td>
+      <td><img src="https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/output_transcript.png?raw=true" alt="Output Transcript" width="400"/></td>
+    </tr>
+  </table>
+</div>
 ---
