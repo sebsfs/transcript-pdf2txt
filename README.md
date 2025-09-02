@@ -22,5 +22,6 @@ python main.py -i "path/to/pdf/file" [-o "output/path/to/txt/file"]
 
 ## Example
 📄 Example with an invoice will be shown here (screenshots of results).
-
+![image_alt](https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/invoice_sample-1.jpg?raw=true) 
+![image_alt](https://github.com/sebsfs/transcript-pdf2txt/blob/main/test_files/images/output_transcript.png?raw=true) 
 ---
